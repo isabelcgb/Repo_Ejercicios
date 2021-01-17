@@ -1,0 +1,18 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.menu{
+    margin: 20px;
+}
+.menu p {
+    background-color: rgb(157, 200, 228);
+    width: 130px;
+    display: flex;
+    justify-content: center;
+}
+.menu a:hover {
+    color: red;
+}
+.menu a:visited {
+    color:green;
+}

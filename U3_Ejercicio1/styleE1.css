@@ -1,0 +1,7 @@
+body {
+    font-family: 'Segoe UI';
+}
+.p1 {
+    font-style: italic;
+    border: red 2px dotted;
+}

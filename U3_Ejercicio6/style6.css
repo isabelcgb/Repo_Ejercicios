@@ -1,0 +1,51 @@
+body {
+    color: grey;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.contenedor{
+    display: flex;
+    justify-content:space-evenly;
+    background-color: rgb(240, 235, 235);
+}
+.info_contenedor{
+    display: flex;
+}
+.caja_verde{
+    margin-left: 10px;
+}
+.titulo {
+    font-size: 20px;
+    margin: 4px;
+}
+.subtitulo {
+    margin: 4px;
+}
+.caja_amarilla{
+    display: flex;
+}
+.button_book {
+    height: 40px;
+    border-radius: 10px;
+    background: rgb(122, 148, 156);
+    color: honeydew;
+}
+.button_budget {
+    height: 40px;
+    border-radius: 10px;
+    background: rgb(122, 148, 156);
+    color: honeydew;
+}
+.info_comentarios {
+    display: flex;
+    align-items: center;
+}
+.caja_azul {
+    background: grey;
+    color: black;
+    margin-left: 10px;
+    border-radius: 10px;
+    
+}
+.caja_azul {
+    margin: 0;
+}
